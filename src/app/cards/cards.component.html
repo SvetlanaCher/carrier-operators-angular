@@ -1,0 +1,11 @@
+<div class="card-block">
+    <div class="card-item" *ngFor="let op of operatorsList">
+        <h2> {{op.name | uppercase}} </h2>
+        <div class="card-img-container">
+            <img class="card-img" [src]="op.img">
+        </div>
+        <a class="card-btn" routerLink="/payment-form/{{op.name}}">
+            <span> Go to pay form </span>
+        </a>
+    </div>
+</div>

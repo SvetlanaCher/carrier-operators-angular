@@ -1,0 +1,19 @@
+{
+    "operators": [
+        {
+            "id": 1,
+            "name": "mts",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MTS_logo_2015.svg/2560px-MTS_logo_2015.svg.png"
+        },
+        {
+            "id": 2,
+            "name": "beeline",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Beeline.svg/858px-Beeline.svg.png"
+        },
+        {
+            "id": 3,
+            "name": "megafon",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MegaFon_logo.svg/799px-MegaFon_logo.svg.png"
+        }
+    ]
+}

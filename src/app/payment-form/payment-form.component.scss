@@ -1,0 +1,25 @@
+form {
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding: 30px 20px ;
+
+    border: 1px solid grey;
+    border-radius: 4%;
+
+
+    .form-number {
+        width: 45px;
+        margin: 0 5px;
+    }
+
+    button {
+        background-color: rgb(240, 255, 252);
+        font-weight: 700;
+    }
+}
+
+button {
+    background-color: cadetblue;
+}
